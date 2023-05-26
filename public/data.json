@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Standard Care",
+      "price": 500,
+      "features": ["Doctor Consultation", "Basic Medications", "Lab Tests"]
+    },
+    {
+      "id": 2,
+      "name": "Advanced Care",
+      "price": 1000,
+      "features": ["Doctor Consultation", "Advanced Medications", "Lab Tests", "Radiology"]
+    },
+    {
+      "id": 3,
+      "name": "VIP Care",
+      "price": 2000,
+      "features": ["Doctor Consultation", "Premium Medications", "Lab Tests", "Radiology", "Private Room"]
+    }
+  ]
+  
